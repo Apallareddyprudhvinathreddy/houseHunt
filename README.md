@@ -1,4 +1,4 @@
-# 🏠 HouseHunt - Property Listing & Booking Platform
+# 🏠 HouseHunt: Finding Your Perfect Rental Home
 
 A full-stack MERN application for property discovery, booking inquiries, and real-time notifications.
 
@@ -110,3 +110,4 @@ For deployment guides (Heroku, Railway, Vercel), see [DEPLOYMENT.md](DEPLOYMENT.
 ## License
 
 MIT
+
